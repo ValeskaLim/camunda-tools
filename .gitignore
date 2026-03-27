@@ -1,0 +1,7 @@
+.vs/
+bin/
+obj/
+*.nupkg
+packages/
+.DS_Store
+Thumbs.db
